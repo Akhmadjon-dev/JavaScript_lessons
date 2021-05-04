@@ -1,0 +1,14 @@
+litepclobby -LobbyUrl=https://lpcprod-live-front.playbattlegrounds.com/index.html -NOSPLASH -nothreadtimeout
+
+
+
+
+Antena on  NUMPAD7
+Antena off  NUMPAD8
+Drivetext  NUMPAD0
+Grass  NUMPAD6
+Speed on F5
+Speed off F6
+Waterinvis NUMPAD6
+Jump on F8
+Jump off F9
